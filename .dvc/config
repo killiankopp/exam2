@@ -2,3 +2,9 @@
     remote = myremote
 ['remote "myremote"']
     url = https://dagshub.com/killiankopp/exam2
+    auth = basic
+    user = killiankopp
+    password = 58e5517cdb17a16b0a5480f7eb3cc7f2c6e6332b
+['remote "origin"']
+    url = s3://dvc
+    endpointurl = https://dagshub.com/killiankopp/exam2.s3

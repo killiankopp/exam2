@@ -462,3 +462,99 @@
 2024-11-25 18:03:53,433 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
 2024-11-25 18:03:53,433 - src.custom_logger - INFO - created directory at: metrics
 2024-11-25 18:03:53,781 - src.custom_logger - ERROR - Error in MLFlow logging: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 404 != 200. Response body: ''
+2024-11-25 20:09:10,991 - src.custom_logger - INFO - Custom logger module initialized.
+2024-11-25 20:09:13,472 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 20:09:13,473 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 20:09:13,639 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2024-11-25 20:09:13,643 - dagshub - INFO - Accessing as killiankopp
+2024-11-25 20:09:13,855 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/killiankopp/exam2 "HTTP/1.1 200 OK"
+2024-11-25 20:09:13,862 - dagshub - INFO - Initialized MLflow to track repo "killiankopp/exam2"
+2024-11-25 20:09:13,862 - dagshub - INFO - Repository killiankopp/exam2 initialized!
+2024-11-25 20:09:13,868 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 20:09:13,870 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 20:09:13,870 - src.custom_logger - INFO - created directory at: metrics
+2024-11-25 20:09:14,782 - src.custom_logger - ERROR - Error in MLFlow logging: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 404 != 200. Response body: ''
+2024-11-25 22:08:43,325 - src.custom_logger - INFO - Custom logger module initialized.
+2024-11-25 22:08:44,184 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:08:44,184 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:08:44,399 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2024-11-25 22:08:44,405 - dagshub - INFO - Accessing as killiankopp
+2024-11-25 22:08:44,625 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/killiankopp/exam2 "HTTP/1.1 200 OK"
+2024-11-25 22:08:44,629 - dagshub - INFO - Initialized MLflow to track repo "killiankopp/exam2"
+2024-11-25 22:08:44,630 - dagshub - INFO - Repository killiankopp/exam2 initialized!
+2024-11-25 22:08:44,633 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:08:44,635 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:08:44,635 - src.custom_logger - INFO - created directory at: metrics
+2024-11-25 22:08:44,981 - src.custom_logger - ERROR - Error in MLFlow logging: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 404 != 200. Response body: ''
+2024-11-25 22:09:08,701 - src.custom_logger - INFO - Custom logger module initialized.
+2024-11-25 22:09:09,517 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:09:09,518 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:09:09,680 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2024-11-25 22:09:09,684 - dagshub - INFO - Accessing as killiankopp
+2024-11-25 22:09:09,888 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/killiankopp/exam2 "HTTP/1.1 200 OK"
+2024-11-25 22:09:09,894 - dagshub - INFO - Initialized MLflow to track repo "killiankopp/exam2"
+2024-11-25 22:09:09,895 - dagshub - INFO - Repository killiankopp/exam2 initialized!
+2024-11-25 22:09:09,903 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:09:09,905 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:09:09,905 - src.custom_logger - INFO - created directory at: metrics
+2024-11-25 22:09:10,247 - src.custom_logger - ERROR - Error in MLFlow logging: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 404 != 200. Response body: ''
+2024-11-25 22:09:15,349 - src.custom_logger - INFO - Custom logger module initialized.
+2024-11-25 22:09:16,154 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:09:16,154 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:09:16,310 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2024-11-25 22:09:16,312 - dagshub - INFO - Accessing as killiankopp
+2024-11-25 22:09:16,524 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/killiankopp/exam2 "HTTP/1.1 200 OK"
+2024-11-25 22:09:16,530 - dagshub - INFO - Initialized MLflow to track repo "killiankopp/exam2"
+2024-11-25 22:09:16,531 - dagshub - INFO - Repository killiankopp/exam2 initialized!
+2024-11-25 22:09:16,537 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:09:16,538 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:09:16,538 - src.custom_logger - INFO - created directory at: metrics
+2024-11-25 22:09:16,879 - src.custom_logger - ERROR - Error in MLFlow logging: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 404 != 200. Response body: ''
+2024-11-25 22:10:25,758 - src.custom_logger - INFO - Custom logger module initialized.
+2024-11-25 22:10:26,565 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:10:26,566 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:10:26,739 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2024-11-25 22:10:26,743 - dagshub - INFO - Accessing as killiankopp
+2024-11-25 22:10:26,953 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/killiankopp/exam2 "HTTP/1.1 200 OK"
+2024-11-25 22:10:26,957 - dagshub - INFO - Initialized MLflow to track repo "killiankopp/exam2"
+2024-11-25 22:10:26,958 - dagshub - INFO - Repository killiankopp/exam2 initialized!
+2024-11-25 22:10:26,962 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:10:26,963 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:10:26,964 - src.custom_logger - INFO - created directory at: metrics
+2024-11-25 22:10:27,311 - src.custom_logger - ERROR - Error in MLFlow logging: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 404 != 200. Response body: ''
+2024-11-25 22:12:13,315 - src.custom_logger - INFO - Custom logger module initialized.
+2024-11-25 22:12:14,131 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:12:14,132 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:12:14,295 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2024-11-25 22:12:14,298 - dagshub - INFO - Accessing as killiankopp
+2024-11-25 22:12:14,506 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/killiankopp/exam2 "HTTP/1.1 200 OK"
+2024-11-25 22:12:14,510 - dagshub - INFO - Initialized MLflow to track repo "killiankopp/exam2"
+2024-11-25 22:12:14,511 - dagshub - INFO - Repository killiankopp/exam2 initialized!
+2024-11-25 22:12:14,516 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:12:14,517 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:12:14,518 - src.custom_logger - INFO - created directory at: metrics
+2024-11-25 22:12:14,858 - src.custom_logger - ERROR - Error in MLFlow logging: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 404 != 200. Response body: ''
+2024-11-25 22:12:26,934 - src.custom_logger - INFO - Custom logger module initialized.
+2024-11-25 22:12:27,763 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:12:27,763 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:12:27,927 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2024-11-25 22:12:27,930 - dagshub - INFO - Accessing as killiankopp
+2024-11-25 22:12:28,143 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/killiankopp/exam2 "HTTP/1.1 200 OK"
+2024-11-25 22:12:28,149 - dagshub - INFO - Initialized MLflow to track repo "killiankopp/exam2"
+2024-11-25 22:12:28,150 - dagshub - INFO - Repository killiankopp/exam2 initialized!
+2024-11-25 22:12:28,155 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:12:28,156 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:12:28,157 - src.custom_logger - INFO - created directory at: metrics
+2024-11-25 22:12:28,515 - src.custom_logger - ERROR - Error in MLFlow logging: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 404 != 200. Response body: ''
+2024-11-25 22:17:13,689 - src.custom_logger - INFO - Custom logger module initialized.
+2024-11-25 22:17:14,498 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:17:14,499 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:17:14,699 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2024-11-25 22:17:14,705 - dagshub - INFO - Accessing as killiankopp
+2024-11-25 22:17:14,930 - httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/killiankopp/exam2 "HTTP/1.1 200 OK"
+2024-11-25 22:17:14,935 - dagshub - INFO - Initialized MLflow to track repo "killiankopp/exam2"
+2024-11-25 22:17:14,936 - dagshub - INFO - Repository killiankopp/exam2 initialized!
+2024-11-25 22:17:14,939 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/config.yaml loaded successfully
+2024-11-25 22:17:14,941 - src.custom_logger - INFO - yaml file: /Users/killian/Karned/Formation/datascientest-mlops-dvc_examen_github/src/params.yaml loaded successfully
+2024-11-25 22:17:14,941 - src.custom_logger - INFO - created directory at: metrics
+2024-11-25 22:17:15,468 - src.custom_logger - INFO - json file saved at: metrics/metrics.json
