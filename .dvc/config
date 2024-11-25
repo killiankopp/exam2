@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = https://dagshub.com/killiankopp/exam2.dvc

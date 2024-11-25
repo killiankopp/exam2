@@ -1,0 +1,47 @@
+stages:
+  transformation:
+    cmd: python -m src.step_01_transformation
+    deps:
+    - data/raw/raw.csv
+    - src/step_01_transformation.py
+    outs:
+    - data/processed/X_test.csv
+    - data/processed/y_test.csv
+    - data/processed/X_train.csv
+    - data/processed/y_train.csv
+  normalization:
+    cmd: python -m src.step_02_normalization
+    deps:
+    - data/processed/X_test.csv
+    - data/processed/X_train.csv
+    - src/step_02_normalization.py
+    outs:
+    - data/processed/X_test_scaled.csv
+    - data/processed/X_train_scaled.csv
+  gridsearch:
+    cmd: python -m src.step_03_gridsearch
+    deps:
+    - data/processed/X_train_scaled.csv
+    - data/processed/y_train.csv
+    - src/step_03_gridsearch.py
+    outs:
+    - models/model.pkl
+  train:
+    cmd: python -m src.step_04_training
+    deps:
+    - data/processed/X_train_scaled.csv
+    - data/processed/y_train.csv
+    - models/model.pkl
+    - src/step_04_training.py
+    outs:
+    - models/model.joblib
+  evaluate:
+    cmd: python -m src.step_05_evaluate
+    deps:
+    - data/processed/X_test_scaled.csv
+    - data/processed/y_test.csv
+    - models/model.joblib
+    - src/step_05_evaluate.py
+    metrics:
+    - metrics/metrics.json:
+        cache: false
