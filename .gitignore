@@ -2,3 +2,5 @@
 .DS_Store
 .idea
 /venv
+/models/
+/data/processed/

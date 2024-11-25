@@ -12,4 +12,4 @@ Dataset
 https://datascientest-mlops.s3.eu-west-1.amazonaws.com/mlops_dvc_fr/raw.csv
 
 Repo Github
-https://github.com/DataScientest-Studio/examen-dvc
+https://github.com/DataScientest-Studio/exam2
